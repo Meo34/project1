@@ -1,0 +1,10 @@
+*{
+background: whitesmoke;
+background-image: url(./backgroundimage.jpg);
+}
+
+#title {
+    background-color: red;
+    text-align: center;
+    color: white;
+}
